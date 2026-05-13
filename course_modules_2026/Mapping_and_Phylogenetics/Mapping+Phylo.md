@@ -5,9 +5,9 @@
 
 <br>
 
-# Mapping and Phylogenetics - Costa Rica 2025 <!-- omit in toc -->
+# Mapping and Phylogenetics - Ireland 2026 <!-- omit in toc -->
 
-### Module Lead: Mat Beale <!-- omit in toc -->
+### Module Lead: César Rodrígez & Marcela Suárez-Esquivel <!-- omit in toc -->
 <br>
 
     
