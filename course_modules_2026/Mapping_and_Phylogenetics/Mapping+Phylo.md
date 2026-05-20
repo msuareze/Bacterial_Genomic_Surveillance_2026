@@ -1,8 +1,8 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
 
-<!-- [<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
--->
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
+
 <br>
 
 # Mapping and Phylogenetics - Dublin 2026 <!-- omit in toc -->
@@ -891,9 +891,8 @@ You should now see a tree coloured by your fastbaps groups. You can use the togg
 <br>
 
 END
-
-<!-- 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md) -->
+ 
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
 
