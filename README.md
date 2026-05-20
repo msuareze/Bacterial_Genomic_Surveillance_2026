@@ -73,16 +73,14 @@ These specifications are recommended to ensure smooth participation in the pract
 - [Julio Diaz Caballero](https://eit.org/people/julio-diaz-caballero), Ellison Institute of Technology Oxford, United Kingdom
 - [Marcela Suarez Esquivel](https://scholar.google.com/citations?user=pdf6GMQAAAAJ&hl=en), Universidad Nacional, Costa Rica
 - [Matthew Dorman](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/matthewdorman/), Trinity College Dublin, Ireland
-- [Sabrina Di Gregorio](https://www.linkedin.com/in/sndigregorio/), Universidad de Buenos Aires, Argentina
 - [Tomás Caride Poklepovich](https://www.linkedin.com/in/tom%C3%A1s-javier-pokl%C3%A9povich-caride-6a622322/), Administración Nacional de Laboratorios e Institutos de Salud, Argentina
 
 **Wellcome Connecting Science Team**
 
 - [Liã Barbara Arruda](https://www.wellcomeconnectingscience.org/person/barbara-arruda-lia/), Education Developer
-- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Assistant Overseas Courses Manager
 - [Martin Aslett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
-- [Lucy Escmond](https://www.wellcomeconnectingscience.org/person/esmond-lucy/), Event Organiser
+- [Lucy Esmond](https://www.wellcomeconnectingscience.org/person/esmond-lucy/), Event Organiser
 
 ******
 
