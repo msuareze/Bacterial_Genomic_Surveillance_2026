@@ -1,6 +1,13 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/Manuals/Manual_main.md)
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
+
+
+course_modules_2026/Manual_main.md
+
+
+course_modules_2026/Manual_main.mdcourse_modules_2026/Manual_main.md
+https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/c662fb11f4e188c0a7f19ab8f7338a09820f167a/course_modules_2026/Manual_main.md
 
 # Web tools for genomic epidemiology
 
