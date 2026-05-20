@@ -1,11 +1,11 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Genomics and Epidemiological Surveillance of Bacterial Pathogens - Latin America and the Caribbean
-## Course Manual Costa Rica 2025
+# Bacterial Genomic Surveillance - Ireland and Northern Ireland
+## Course Manual Dublin 2026
 
 - Genomic Capacity Development for Public Health Settings 
 - World Café: Translating Genomics into Public Health Action
-- [Module 1: Sequencing & QC](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Sequencing&QC/Sequencing&QC.md)
+- [Module 1: Sequencing & QC](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Sequencing&QC/Sequencing&QC.md)
 - [Module 2: Genome Visualisation Tools](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_visualisation_tools/Genome_visualisation_tools.md)
 - [Module 3: Comparative Genomics (lecture only)](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Comparative_genomics_module/Comparative_genomics.md)
 - [Module 4: Mapping and Phylogenetics](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Mapping_and_Phylogenetics/Mapping+Phylo.md)
