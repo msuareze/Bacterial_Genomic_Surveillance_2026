@@ -1,10 +1,10 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
-<!-- [<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2024/blob/main/Manuals/Manual_main.md)
- -->
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/Manuals/Manual_main.md)
+
 # Web tools for genomic epidemiology
 
-### Module Lead: Julio Diaz Caballero & Caterina Guzmán Verri
+### Module Lead: Julio Diaz Caballero and Caterina Guzmán Verri
 
 
 # Table of contents
@@ -390,6 +390,5 @@ j.  You should get a screen like this!
 
 
 <br>
-<br>
-<!-- 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/Manuals/Manual_main.md) -->
+<br> 
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/Manuals/Manual_main.md)
