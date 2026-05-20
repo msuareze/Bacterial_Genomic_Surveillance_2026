@@ -6,9 +6,9 @@
 
 <br>
 
-# Assembly Method Comparisons - Costa Rica 2025 <!-- omit in toc -->
+# Assembly Method Comparisons - Dublin 2026 <!-- omit in toc -->
 
-### Module Leads: Jordan Ashworth & Mat Beale <!-- omit in toc -->
+### Module Leads: César Rodríguez and Tomás Caride Poklepovich <!-- omit in toc -->
 <br>
 
     
