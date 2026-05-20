@@ -1,7 +1,7 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
 
-<!-- [<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md) -->
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
 
@@ -316,10 +316,10 @@ annotation files with the "/colour" qualifier and chosen number [Appendix VII](h
 
 
 <br>
-<!-- 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
- -->
+
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
+
 <br>
-<!-- 
-[>>> Go to Artemis Appendices](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_visualisation_tools/Appendix_Artemis_2024.pdf)
- -->
+
+[>>> Go to Artemis Appendices](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Genome_visualisation_tools/Appendix_Artemis_2024.pdf)
+ 
