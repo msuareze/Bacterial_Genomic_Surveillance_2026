@@ -1,7 +1,7 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
 
-<!-- [<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md) -->
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
 
@@ -486,10 +486,10 @@ When all results are uploaded, we will (hopefully) put summary plots [here](http
 
 <br>
 
-<!-- [>>> Go to Assembly & Annotation Exercise](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md) -->
+[>>> Go to Assembly & Annotation Exercise](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md)
 
 <br>
 
-<!-- [<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
- -->
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
+
 <br>
