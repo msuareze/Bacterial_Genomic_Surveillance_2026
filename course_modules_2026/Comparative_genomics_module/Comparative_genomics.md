@@ -5,9 +5,9 @@
 
 <br>
 
-# Comparative genomics - Costa Rica 2025 <!-- omit in toc -->
+# Comparative genomics 2026 <!-- omit in toc -->
 
-### Module Lead: Matt Holden <!-- omit in toc -->
+### Module Lead: Marcela Suarez Esquivel <!-- omit in toc -->
 <br>
 
 # Table of contents <!-- omit in toc -->
