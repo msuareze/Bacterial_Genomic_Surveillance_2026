@@ -479,17 +479,17 @@ When all results are uploaded, we will (hopefully) put summary plots [here](http
 
 <br>
 
-[ Proceed to Part 2: Assembly and Annotation >>>](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md)
+!<-- [ Proceed to Part 2: Assembly and Annotation >>>](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md) -->
 
 
 <br>
 
 <br>
 
-[>>> Go to Assembly & Annotation Exercise](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md)
+!<-- [>>> Go to Assembly & Annotation Exercise](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md) -->
 
 <br>
 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
-
+!<-- [<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
+ -->
 <br>
