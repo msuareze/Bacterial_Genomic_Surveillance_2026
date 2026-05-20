@@ -1280,6 +1280,6 @@ Compare the other regions containing MGEs.
 
 [>>> Go to Assembly Method Comparison Exercise](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Assembly_method_comparison/Assembly_method_comparison.md)
 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_2026/blob/main/course_modules_2026/Manual_main.md)
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
