@@ -5,7 +5,7 @@
 ### 22–26 June 2026, Department of Microbiology, Moyne Institute of Preventive Medicine, Trinity College Dublin, Ireland
 
 [Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/bacterial-genomic-surveillance-ireland-and-northern-ireland-20260622/) <br /> 
-[Course manual](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
+[Course manual](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md) <br />
 [Course Time Table 2026]() <br /> 
 [Course Informatics Guide]()
 
