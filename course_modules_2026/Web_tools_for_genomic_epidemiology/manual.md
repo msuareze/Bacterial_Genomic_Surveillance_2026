@@ -390,5 +390,7 @@ j.  You should get a screen like this!
 
 
 <br>
-<br> 
 [<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
+<br> 
+
+
