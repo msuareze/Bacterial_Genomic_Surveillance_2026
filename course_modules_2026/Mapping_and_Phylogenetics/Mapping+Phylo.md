@@ -7,7 +7,7 @@
 
 # Mapping and Phylogenetics - Dublin 2026 <!-- omit in toc -->
 
-### Module Leads: Marcela Suarez Esquivel and César Rodríguez <!-- omit in toc -->
+### Module Leads: Marcela Suarez-Esquivel and César Rodríguez <!-- omit in toc -->
 <br>
 
     
