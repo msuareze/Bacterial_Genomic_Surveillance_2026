@@ -1,10 +1,12 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
 
-# Module 1 - Sequencing & QC - Costa Rica 2025 <!-- omit in toc -->
+# Module 1 - Sequencing & QC - Dublin 2026 <!-- omit in toc -->
+
+### Module lead: Tomás Caride Poklepovich <!-- omit in toc -->
 
 ## Table of contents <!-- omit in toc -->
 - [Introduction](#introduction)
@@ -508,6 +510,4 @@ You can decide how to visualise the results clicking on the different tabs "Read
 
 
 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
-
-<br>
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)<br>

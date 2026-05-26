@@ -1,14 +1,13 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
 
-
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
 
-# Assembly Method Comparisons - Costa Rica 2025 <!-- omit in toc -->
+# Assembly Method Comparisons - Dublin 2026 <!-- omit in toc -->
 
-### Module Leads: Jordan Ashworth & Mat Beale <!-- omit in toc -->
+### Module Leads: César Rodríguez and Tomás Caride Poklepovich <!-- omit in toc -->
 <br>
 
     
@@ -480,17 +479,17 @@ When all results are uploaded, we will (hopefully) put summary plots [here](http
 
 <br>
 
-[ Proceed to Part 2: Assembly and Annotation >>>](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md)
+<!-- [ Proceed to Part 2: Assembly and Annotation >>>](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md) -->
 
 
 <br>
 
 <br>
 
-[>>> Go to Assembly & Annotation Exercise](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md)
+[>>> Go to Assembly & Annotation Exercise](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Genome_Assembly_Annotation/Genome_Assembly_Annotation.md)
 
 <br>
 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>

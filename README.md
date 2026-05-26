@@ -5,8 +5,10 @@
 ### 22–26 June 2026, Department of Microbiology, Moyne Institute of Preventive Medicine, Trinity College Dublin, Ireland
 
 [Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/bacterial-genomic-surveillance-ireland-and-northern-ireland-20260622/) <br /> 
+[Course manual](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md) <br />
 [Course Time Table 2026]() <br /> 
-[Course Informatics Guide]()
+[Course Informatics Guide](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/InformaticsGuide.md)
+
 
 Integrating epidemiology and genomics for surveillance and disease control
 
@@ -73,16 +75,14 @@ These specifications are recommended to ensure smooth participation in the pract
 - [Julio Diaz Caballero](https://eit.org/people/julio-diaz-caballero), Ellison Institute of Technology Oxford, United Kingdom
 - [Marcela Suarez Esquivel](https://scholar.google.com/citations?user=pdf6GMQAAAAJ&hl=en), Universidad Nacional, Costa Rica
 - [Matthew Dorman](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/matthewdorman/), Trinity College Dublin, Ireland
-- [Sabrina Di Gregorio](https://www.linkedin.com/in/sndigregorio/), Universidad de Buenos Aires, Argentina
 - [Tomás Caride Poklepovich](https://www.linkedin.com/in/tom%C3%A1s-javier-pokl%C3%A9povich-caride-6a622322/), Administración Nacional de Laboratorios e Institutos de Salud, Argentina
 
 **Wellcome Connecting Science Team**
 
 - [Liã Barbara Arruda](https://www.wellcomeconnectingscience.org/person/barbara-arruda-lia/), Education Developer
-- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Assistant Overseas Courses Manager
 - [Martin Aslett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
-- [Lucy Escmond](https://www.wellcomeconnectingscience.org/person/esmond-lucy/), Event Organiser
+- [Lucy Esmond](https://www.wellcomeconnectingscience.org/person/esmond-lucy/), Event Organiser
 
 ******
 

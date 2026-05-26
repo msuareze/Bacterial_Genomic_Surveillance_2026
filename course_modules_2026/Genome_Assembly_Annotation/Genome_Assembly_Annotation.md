@@ -1,13 +1,12 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
-
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
 
-# Genome Assembly and Analysis - Costa Rica 2025 <!-- omit in toc -->
+# Genome Assembly and Analysis - Dublin 2026 <!-- omit in toc -->
 
-### Module Leads: Jordan Ashworth and Mat Beale <!-- omit in toc -->
+### Module Leads: César Rodríguez and Tomás Caride Poklepovich <!-- omit in toc -->
 
 <br>
 
@@ -1279,8 +1278,8 @@ Compare the other regions containing MGEs.
 
 <br>
 
-[>>> Go to Assembly Method Comparison Exercise](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Assembly_method_comparison/Assembly_method_comparison.md)
+[>>> Go to Assembly Method Comparison Exercise](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Assembly_method_comparison/Assembly_method_comparison.md)
 
-[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/GenEpiLAC2025/blob/main/course_modules_2025/Manual_main.md)
+[<<< Go back to Manual Contents Page](https://github.com/WCSCourses/Bacterial_Genomic_Surveillance_2026/blob/main/course_modules_2026/Manual_main.md)
 
 <br>
